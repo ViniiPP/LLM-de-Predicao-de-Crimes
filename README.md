@@ -1,8 +1,8 @@
 # Integrantes
 
-- Vinícius Pereira Polli - Desenvolvedor da LLM e Cientista de Dados
-- Maria Eduarda Dornelles - QA
-- Julia Braccini - Documentação
+- Vinícius Pereira Polli - Desenvolvedor da LLM e Cientista de Dados;
+- Maria Eduarda Dornelles - QA e Documentação;
+- Julia Braccini - Documentação;
 
 
 # Projeto-IA-Criminal

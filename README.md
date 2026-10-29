@@ -1,10 +1,6 @@
 - Vinícius Pereira Polli
-- Henrique Zanfir
-- Eduardo Vanin
-- Roberto Jacobs
 - Maria Eduarda Dornelles
 - Julia Braccini
-
 
 
 # Projeto-IA-Criminal
